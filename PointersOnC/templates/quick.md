@@ -1,5 +1,5 @@
 date posted:{{date}} {{time}}
-tags: 
+tags: [[PointersOnC]]
 status: #quick
 # {{title}}
 ---

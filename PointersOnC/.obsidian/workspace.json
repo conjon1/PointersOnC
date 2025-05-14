@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Preface and Table of context"
             }
+          },
+          {
+            "id": "0dce52a2784978a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettle/01.006 How to Comment out code in C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.006 How to Comment out code in C"
+            }
+          },
+          {
+            "id": "9e2405f6db90b76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettle/01.008 Main Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.008 Main Function"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,14 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fd38c02552aea69",
+  "active": "9e2405f6db90b76e",
   "lastOpenFiles": [
+    "Zettle/01.006 How to Comment out code in C.md",
+    "Zettle/01.008 Main Function.md",
+    "Zettle/Preface and Table of context.md",
+    "templates/Quotes.md",
+    "templates/complete.md",
+    "templates/fleeting.md",
     "templates/quick.md",
     "README.md",
-    "Zettle/Preface and Table of context.md",
     "Untitled",
-    "templates/fleeting.md",
-    "templates/complete.md",
     "Zettle",
     "hhhh.md",
     "templates",

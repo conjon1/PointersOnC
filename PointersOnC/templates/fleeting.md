@@ -1,4 +1,4 @@
 date posted:{{date}} {{time}}
-tags: 
+tags: [[PointersOnC]]
 status: #fleeting
 # {{title}}
