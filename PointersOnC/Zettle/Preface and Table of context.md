@@ -2,7 +2,9 @@ date posted:2025-05-13 08:39
 tags: [[ANCI C]]
 status: #fleeting
 
-
+# This is a Pre-look 
+this is a pre-look of the table of contents I will compare at the end of the book when I am done
+I like to do this to see what I can expect going forward and see what initially catches my eye at first and how that holds up at the end of the book.
 ### Preface 
 author gives arguments on why learning and fundamentally knowing pointers are so important with the message that pointers are great but can lead to self harm if not used right.
 

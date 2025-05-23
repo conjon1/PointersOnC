@@ -1,4 +1,4 @@
 {{title}}
-	tags: [[Book-Quotes]] 
+	tags: [[Book-Quotes]] [[PointersOnC]]
 
 

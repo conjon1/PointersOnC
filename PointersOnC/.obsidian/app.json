@@ -1,5 +1,7 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "Zettle",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }
