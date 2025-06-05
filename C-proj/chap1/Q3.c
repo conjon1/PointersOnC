@@ -13,11 +13,18 @@
 // Hello world!
 // 102
 
+int main(void){
+  int ch;
+  signed char checksum = -1;
+  while((ch = getchar()) != EOF) {
+    printf("%c", ch);
+    checksum += ch;
 
-int ch; 
-main(void)
-{  
-  while((ch = getchar()) != EOF && ch = '\n' ); 
+  }
+  printf("%d\n", checksum);  
 
-};
+
+
+  return 0;
+}
 
